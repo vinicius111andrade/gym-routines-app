@@ -1,7 +1,8 @@
-package com.vdemelo.gymroutines
+package com.vdemelo.gymroutines.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.vdemelo.gymroutines.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
